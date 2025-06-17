@@ -1,5 +1,5 @@
 {
-  "openai_api_key": "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",
+  "openai_api_key": "",
   "database": "results.db",
   "table": "targettable"
 }
